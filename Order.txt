@@ -1,0 +1,14 @@
+..................................................
+ITCS 2530 - Programming Assignment for week #3
+..................................................
+
+
+Please enter the item name (no space)............:FiberGlass
+Is the item fragile? (y=yes/n=no)................:Y
+Please enter your order total....................:89.45
+Please enter destination. (usa/can/aus/mars)..........:MARS
+
+Your item is...........................FiberGlass
+Your shipping cost is...................$300002.00
+Your are shipping to...................MARS
+Your total shipping cost are............$300091.45
