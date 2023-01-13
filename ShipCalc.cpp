@@ -2,7 +2,8 @@
 #include <string>
 #include <iomanip>
 #include <fstream>
-#include <algorithm>  // brings the transform word
+#include <algorithm>  
+// brings the transform word
 using namespace std;
 // header filename constants:
 // 
@@ -12,7 +13,7 @@ const string OUTFILENAME = "Order.txt";
 
 // pricing constants:
 // initial fees
-
+// 
 // shipping fees added onto overall total (with the users inputed order total):
 const double USA_LOW_SHIPPING_FEE = 6.00, USA_MID_SHIPPING_FEE = 9.00, USA_HIGH_SHIPPING_FEE = 12.00, //usa
 CAN_LOW_SHIPPING_FEE = 8.00, CAN_MID_SHIPPING_FEE = 12.00, CAN_HIGH_SHIPPING_FEE = 15.00, // canada
